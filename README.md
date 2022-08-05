@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, 做一個備忘錄吧</h1>
+<h2 align="center">Hi 👋, 來做一個實用的備忘錄小工具吧</h2>
 <h4 align="left">此side project是使用json-server當作模擬database，並使用React框架來練習製作出一個todoList。</h4>
 
 <h4 align="left">主要語言及使用工具:</h4>
