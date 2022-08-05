@@ -1,4 +1,7 @@
 <h2 align="center">Hi 👋, 來做一個實用的備忘錄小工具吧</h2>
+<h3 align="left">作品連結:</h3>
+[https://cara0710.github.io/todoList/]
+
 <h3 align="left">side project要旨:</h3>
 <p align="left">利用json-server當作模擬database，並使用React框架來練習製作出一個todoList。</p>
 
