@@ -31,9 +31,7 @@ const Home = () => {
       return;
     }
     console.log("put data is running");
-    fetchSetDate(data)
-      .then(() => (submittingStatus.current = false))
-      .then(() => setCheckbox(false));
+    fetchSetDate(data).then(() => (submittingStatus.current = false));
   }, [data]);
 
   // initialize data

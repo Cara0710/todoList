@@ -25,6 +25,7 @@ const Item = ({
     setCheckbox(click.checkbox);
     submittingStatus.current = true;
     changeData([...listData]);
+    setCheckbox(false);
   }
   return (
     <div className="item">
