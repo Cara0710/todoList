@@ -14,8 +14,8 @@ const Item = ({
 }) => {
   function handleDelete() {
     submittingStatus.current = true;
-    deleteData(function (preD) {
-      return preD.filter((item) => item.id !== id);
+    deleteData(function (preData) {
+      return preData.filter((item) => item.id !== id);
     });
   }
 
