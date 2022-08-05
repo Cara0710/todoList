@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Cara</h1>
+<h1 align="center">Hi 👋, Make a todoList!</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
-<h3 align="left"> make a todoList</h3>
+
 <p align="left">
 </p>
 
